@@ -1,0 +1,3 @@
+import stripe with test_publishable_key
+add stripe script to index.html
+<script pk_test_mlCpXfDbzXH68AMM0ABqTQ8x
