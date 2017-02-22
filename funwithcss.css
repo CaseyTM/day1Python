@@ -1,0 +1,18 @@
+.tile{
+	width: 1%;
+	height: 20px;
+	background-color: #d7d7d7;
+	float: left;
+}
+.tile2{
+	width: 1%;
+	height: 20px;
+	background-color: #f8f8f8;
+	float: left;
+}
+.tile:hover, .tile2:hover{
+	transition: 4s;
+	transition-timing-function: ease-in-out;
+	transform: rotate(1080deg);
+
+}
